@@ -1,0 +1,12 @@
+*/target/*
+auto_es.ipr
+*/target
+target/*
+auto_es.iws
+logs/
+projectFilesBackup/
+.idea/
+*.iml
+*.class
+*.DS_Store
+
