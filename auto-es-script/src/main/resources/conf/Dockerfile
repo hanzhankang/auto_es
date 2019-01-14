@@ -5,10 +5,10 @@
 #
 
 # 设置继承自java:oracle-java8 镜像
-FROM docker.sankuai.com/jdk-8u71-linux-x64
+FROM docker.xxxxxx/jdk-8u71-linux-x64
 
 # 下面是一些创建者的基本信息
-MAINTAINER hanzhankang (hanzhankang@gmail.com)
+MAINTAINER xxxx (xxxx@gmail.com)
 
 
 # 设置环境变量，所有操作都是非交互式的

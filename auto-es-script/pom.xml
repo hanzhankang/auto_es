@@ -263,21 +263,5 @@
             <name>Scala-tools Maven2 Repository</name>
             <url>http://scala-tools.org/repo-releases</url>
         </repository>
-        <!-- repository for meituan -->
-        <repository>
-            <id>thirdparty.meituan.com</id>
-            <url>http://maven.sankuai.com/nexus/content/repositories/thirdparty</url>
-        </repository>
-        <repository>
-            <id>release.meituan.com</id>
-            <url>http://maven.sankuai.com/nexus/content/repositories/releases</url>
-        </repository>
-
-        <repository>
-            <id>snapshots.meituan.com</id>
-            <name>Meituan Nexus Repository</name>
-            <url>http://maven.sankuai.com/nexus/content/repositories/snapshots/</url>
-        </repository>
-
     </repositories>
 </project>
